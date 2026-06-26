@@ -20,10 +20,11 @@ This profile is where I keep the **engineering** side of that work: policy-as-co
 ### 🎯 What I focus on
 - **AI Governance** — ISO 42001 AIMS, EU AI Act, NIST AI RMF, model oversight, AI risk classification
 - **GRC leadership** — multi-framework audit programmes (ISO 27001/42001, SOC 2, PCI-DSS, SWIFT), regulatory gap analysis, team building
+- **Data protection & privacy** — UK/EU GDPR, ISO 27701 (PIMS), privacy by design (IAPP CIPP/E)
 - **GRC engineering** — Policy-as-Code (OPA/Rego), OSCAL, Terraform compliance primitives, signed evidence pipelines, keyless OIDC CI/CD
 
 ### 🏅 Certifications
-`ISO 42001 Lead Implementer` · `ISO 42001 Lead Auditor` · `ISO 27001 Lead Implementer` · `ISO 27001 Lead Auditor` · `ISO 27001:2022 Transition`
+`ISO 42001 Lead Implementer` · `ISO 42001 Lead Auditor` · `ISO 27001 Lead Implementer` · `ISO 27001 Lead Auditor` · `ISO 27701 Lead Auditor` · `IAPP CIPP/E` · `ISO 27001:2022 Transition`
 
 ---
 
