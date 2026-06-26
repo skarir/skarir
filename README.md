@@ -31,9 +31,9 @@ This profile is where I keep the **engineering** side of that work: policy-as-co
 
 | Project | What it demonstrates |
 |---------|----------------------|
-| **[cgep-app-starter](https://github.com/skarir/cgep-app-starter)** — CGE-P Capstone | End-to-end GRC engineering: a deliberately non-compliant HIPAA workload, governed with OPA/Rego policy gates, NIST 800-53 ↔ HIPAA control mapping in OSCAL, and a CI pipeline that signs evidence with Cosign and locks it in a tamper-proof vault. |
-| **[poam-generator](https://github.com/skarir/poam-generator)** | Converts OPA/Terraform scan output into a NIST **OSCAL-compliant** Plan of Action & Milestones — compliance reporting automated from scan to artifact. |
-| **[aws_automated_access_review](https://github.com/skarir/aws_automated_access_review)** | Zero-configuration AWS security assessment tooling — automated access review and evidence collection. |
+| **[cgep-capstoneSK](https://github.com/skarir/cgep-capstoneSK)** — CGE-P Capstone | End-to-end GRC engineering: a deliberately non-compliant HIPAA workload, governed with OPA/Rego policy gates, NIST 800-53 ↔ HIPAA control mapping in OSCAL, and a CI pipeline that signs evidence with Cosign and locks it in a tamper-proof vault. |
+| **[cgep-labs-portfolio](https://github.com/skarir/cgep-labs-portfolio)** | A GRC platform implementing **14 NIST 800-53 controls as code** — the lab body of work behind the capstone, consolidated and documented. |
+| **[poam-generator](https://github.com/skarir/poam-generator)** | Converts OPA/Terraform scan output into a NIST **OSCAL-compliant** Plan of Action & Milestones — compliance reporting automated from scan to artifact. Built for RMF, CMMC, and FedRAMP workflows. |
 
 > 🔎 The repos above are **pinned** below. Everything is documented to be read by a governance reviewer, not just an engineer.
 
@@ -46,6 +46,6 @@ This profile is where I keep the **engineering** side of that work: policy-as-co
 
 <!--
   TIP: after publishing, go to your profile → "Customize your pins" and pin:
-  cgep-app-starter, poam-generator, aws_automated_access_review
+  cgep-capstoneSK, cgep-labs-portfolio, poam-generator
   (plus up to 3 more of your strongest *documented* repos — avoid bare forks).
 -->
