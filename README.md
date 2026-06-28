@@ -15,6 +15,8 @@ I build and scale governance functions inside regulated environments — and I d
 
 This profile is where I keep the **engineering** side of that work: policy-as-code, compliance automation, OSCAL/NIST control mapping, and cryptographically verifiable audit evidence.
 
+My day job is standing up AI governance inside a regulated FinTech — **[ai-governance-lab](https://github.com/skarir/ai-governance-lab)** is where I show the full method in public. It governs a fictional FinTech's entire AI estate end to end: EU AI Act, UK FCA/ICO and NIST AI RMF classification, an ISO/IEC 42001 Stage-1 readiness assessment, policy-as-code that compiles the controls into runnable OPA/Rego, an AI incident runbook, and a complete high-risk conformity pack. It's deliberately built around a single credit-scoring model so the five projects connect the way a real programme does — discovery through to conformity — and it documents where the system honestly fails a control, the way an auditor would expect. Same discipline as the GRC engineering below: governance written to be **operated and audited**, not just filed.
+
 ---
 
 ### 🎯 What I focus on
@@ -32,6 +34,7 @@ This profile is where I keep the **engineering** side of that work: policy-as-co
 
 | Project | What it demonstrates |
 |---------|----------------------|
+| **[ai-governance-lab](https://github.com/skarir/ai-governance-lab)** — AI Governance Lab | An operational AI-governance portfolio governing a UK FinTech's AI estate end to end: EU AI Act / FCA-ICO / NIST AI RMF classification, ISO/IEC 42001 Stage-1 readiness, policy-as-code (OPA/Rego → POA&M), an AI incident runbook, and a high-risk Art. 9–17 conformity pack. |
 | **[cgep-capstoneSK](https://github.com/skarir/cgep-capstoneSK)** — CGE-P Capstone | End-to-end GRC engineering: a deliberately non-compliant HIPAA workload, governed with OPA/Rego policy gates, NIST 800-53 ↔ HIPAA control mapping in OSCAL, and a CI pipeline that signs evidence with Cosign and locks it in a tamper-proof vault. |
 | **[cgep-labs-portfolio](https://github.com/skarir/cgep-labs-portfolio)** | A GRC platform implementing **14 NIST 800-53 controls as code** — the lab body of work behind the capstone, consolidated and documented. |
 | **[poam-generator](https://github.com/skarir/poam-generator)** | Converts OPA/Terraform scan output into a NIST **OSCAL-compliant** Plan of Action & Milestones — compliance reporting automated from scan to artifact. Built for RMF, CMMC, and FedRAMP workflows. |
@@ -47,6 +50,6 @@ This profile is where I keep the **engineering** side of that work: policy-as-co
 
 <!--
   TIP: after publishing, go to your profile → "Customize your pins" and pin:
-  cgep-capstoneSK, cgep-labs-portfolio, poam-generator
+  ai-governance-lab, cgep-capstoneSK, cgep-labs-portfolio, poam-generator
   (plus up to 3 more of your strongest *documented* repos — avoid bare forks).
 -->
